@@ -1,0 +1,22 @@
+.todo--li {
+    padding: 10px 15px;
+    margin: 10px 0;
+    border: 1px solid #61DAFB;
+    list-style: none;
+    color: darkblue;
+    border-radius: 7px;
+}
+.todo--ul {
+    padding: 0;
+    margin: 0;
+}
+.todo--button {
+    background-color: #1e90ff;
+    border: 1px solid #1e90ff;
+    color: #fff;
+    padding: 10px 15px;
+    font-weight: 700;
+    margin: 0;
+    border-radius: 4px;
+    cursor: pointer;
+}

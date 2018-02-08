@@ -1,0 +1,27 @@
+{
+  "name": "hyperapp-parcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html --public-url ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twclark0/hyperapp-parcel.git"
+  },
+  "author": "Tyler Clark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twclark0/hyperapp-parcel/issues"
+  },
+  "homepage": "https://github.com/twclark0/hyperapp-parcel#readme",
+  "dependencies": {
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.6.1",
+    "hyperapp": "^1.1.1",
+    "parcel-bundler": "^1.5.1"
+  }
+}
